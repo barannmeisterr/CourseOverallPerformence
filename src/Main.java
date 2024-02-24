@@ -122,7 +122,7 @@ public static void displayOverallGrades(List<Courses> courses) {
      		    
      		    c72.addSingleAssignment(new SingleAssingment("Midterm Exam", 100, 63, 25));
      		    
-     		    c72.addSingleAssignment(new SingleAssingment("Midterm Exam", 100, 86, 35));
+     		    c72.addSingleAssignment(new SingleAssingment("Final Exam", 100, 86, 35));
     		    
     		    
      		   MultipleAssingments labeee = new MultipleAssingments("Laboratory Works", 25, 8);
